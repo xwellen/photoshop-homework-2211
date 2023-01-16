@@ -241,6 +241,7 @@ https://drive.google.com/file/d/0B-qquDTRRTjheHFpV3lvNHVSMTA/view?usp=sharing&re
 
 Готово! Теперь можете отправить мне файл через journal
 
+![save-4](pic/save-4.jpg)
 ## Post scriptum
 
 Если Windows покажет такое окно (а он может, потому что это Photoshop CS2 уже довольно старая программа по нынешним меркам). То просто нажимте "Эта программа установленна правильно"
