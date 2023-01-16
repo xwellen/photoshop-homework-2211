@@ -209,7 +209,7 @@ https://drive.google.com/file/d/0B-qquDTRRTjheHFpV3lvNHVSMTA/view?usp=sharing&re
 
 Изменим прозрачность у зеленого круга
 
-![opacitygreen](pic/main-27-opacitygreen.jpg
+![opacitygreen](pic/main-27-opacitygreen.jpg)
 
 Изменим прозрачность у красного круга, посмотрим на финальный резульат
 
