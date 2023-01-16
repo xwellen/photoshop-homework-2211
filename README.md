@@ -153,3 +153,11 @@ https://drive.google.com/file/d/0B-qquDTRRTjheHFpV3lvNHVSMTA/view?usp=sharing&re
 Вот так выглядит окно, после изменения цвета.
 
 ![red](pic/main-16.jpg)
+
+
+### Шаг 10.
+
+Аналогичным образом создайте еще два круга, можете их нарисовать заново, а можете просто сделать копию слоев с помощью Ctrl+J.
+
+![3ellipse](pic/main-17-3ellipse.jpg)
+
