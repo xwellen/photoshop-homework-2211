@@ -161,3 +161,16 @@ https://drive.google.com/file/d/0B-qquDTRRTjheHFpV3lvNHVSMTA/view?usp=sharing&re
 
 ![3ellipse](pic/main-17-3ellipse.jpg)
 
+### Шаг 11.
+
+Давайте перекрасим круги. Для того, чтобы поменять цвет, нажмите на кнопку выбора цвета фигуры, эта кнопка находится на панели свойств
+
+![colorchange](pic/main-18.jpg)
+
+При нажатии на эту кнопку, появится знакомая уже нам панель выбора цвета. 
+
+![colorchange](pic/main-19.jpg)
+
+Для того, чтобы поменять оттенок, нажмите на зеленую область столбика.
+
+![colorgreen](pic/main-20.jpg)
